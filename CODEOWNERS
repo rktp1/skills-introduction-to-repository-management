@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rktp1
+/src/backend/database.py      @rktp1
+/src/backend/routers/auth.py  @rktp1
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rktp1
